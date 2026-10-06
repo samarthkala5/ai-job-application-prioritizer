@@ -1,0 +1,40 @@
+Sophie Park
+Machine Learning / Data Science Engineer
+
+Summary:
+ML engineer with 4 years of experience building, training, and deploying machine learning models, particularly in NLP and computer vision. Strong mathematical foundation with hands-on experience in deep learning frameworks and MLOps. Published research in top-tier venues. Passionate about translating research into production-grade AI systems.
+
+Technical Skills:
+- ML/DL: PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face Transformers (expert)
+- Languages: Python (expert), R (proficient), SQL, Julia (basic)
+- Data Engineering: Pandas, NumPy, Polars, PySpark, Dask, Airflow, DBT
+- Computer Vision: OpenCV, Pillow, CNN architectures, YOLO, Detectron2, MediaPipe
+- NLP: BERT, GPT, T5, transformers, spaCy, LangChain, embeddings, RAG
+- MLOps: MLflow, Docker, Kubernetes, Seldon, KServe, TFServing, Vertex AI
+- Tools: Jupyter, VS Code, Git, DVC, Weights & Biases, Neptune
+- Cloud: AWS (SageMaker, S3, EC2, Lambda), GCP
+- Data Storage: PostgreSQL, MongoDB, BigQuery, Snowflake, S3
+
+Professional Experience:
+
+ML Engineer | DeepTech AI | 2021–Present
+- Developed BERT-based semantic search system for enterprise knowledge management, achieving 92% precision@10 and 38% reduction in support resolution time
+- Built computer vision pipeline for defect detection in manufacturing using YOLOv8 and custom CNN, deployed via TensorFlow Serving with 95% accuracy
+- Designed and implemented MLOps pipeline using MLflow for experiment tracking, DVC for data versioning, and Kubernetes for model deployment
+- Led a team of 3 ML engineers and 2 data engineers to productionize 8 ML models within 12 months
+- Optimized model inference latency by 4x using quantization, pruning, and ONNX export
+
+Data Scientist | HealthData Corp | 2019–2021
+- Developed NLP pipeline for clinical note analysis using BioBERT, extracting 15+ medical entity types with F1 score of 0.87
+- Built predictive models for patient readmission risk achieving AUC of 0.85, deployed as REST API using FastAPI and Flask
+- Created automated feature engineering pipelines reducing feature preparation time from 4 hours to 30 minutes
+- Conducted A/B testing of recommendation algorithms for clinical decision support, showing 15% improvement in diagnostic accuracy
+
+Education:
+Ph.D. in Machine Learning, Stanford University (expected 2024, started 2020)
+M.S. Data Science, Carnegie Mellon University (2019)
+B.S. Computer Science, Georgia Tech (2017)
+
+Selected Publications:
+- "Efficient Vision Transformers for Edge Deployment" (NeurIPS 2023)
+- "Contrastive Learning for Medical Image Segmentation" (CVPR 2022)

@@ -1,0 +1,44 @@
+Rajesh Patel
+Frontend / Full-Stack Developer
+
+Summary:
+Full-stack developer with 5 years of experience building modern web applications using React, TypeScript, and Node.js. Strong eye for UI/UX and accessibility. Expertise in component-driven architecture, state management, and performance optimization. Active contributor to open-source accessibility tools.
+
+Technical Skills:
+- Frontend: React (expert), TypeScript (expert), JavaScript (expert), HTML5/CSS3 (expert)
+- State Management: Redux, Zustand, Recoil, Context API
+- UI Frameworks: React Native, Next.js (13+), Remix, Vue 3
+- Styling: CSS Modules, Tailwind CSS, Styled Components, Emotion
+- Build Tools: Vite, Webpack 5, ESBuild, Turbopack, Babel
+- API & Integration: GraphQL, Apollo Client, REST/RESTful, SWR, React Query
+- Testing: Jest, React Testing Library, Cypress, Playwright, unit/integration/E2E tests
+- Package Management: npm, pnpm, yarn, pnpm workspaces, Turborepo
+- CI/CD: GitHub Actions, CircleCI, CodeShip
+
+Professional Experience:
+
+Full-Stack Engineer | Nova Studios | 2021–Present
+- Led redesign of flagship product dashboard using React 18 and TypeScript, improving Time to Interactive from 4.2s to 1.1s and increasing accessibility score to 98/100
+- Built reusable component library with 30+ components, adopted by 10+ teams, reducing UI inconsistencies by 70%
+- Implemented Storybook-driven development workflow, improving developer iteration time and design consistency
+- Migrated legacy jQuery-based UI to React, reducing bundle size by 40% and improving SEO metrics
+- Designed and implemented dark mode theming and design system with Tailwind CSS, supporting 5+ product lines
+
+Frontend Engineer | RetailCo | 2019–2021
+- Built responsive e-commerce storefront with React and Next.js, achieving 3.2% conversion rate and 2.1s LCP
+- Integrated Stripe, PayPal, and local payment gateways with 99.9% success rate
+- Implemented image optimization pipeline using Cloudinary and LQIP, improving CLS from 0.15 to 0.02
+- Set up testing infrastructure with Jest + React Testing Library, achieving 85%+ unit test coverage
+
+Junior Developer | DigitalAgency | 2017–2019
+- Built WordPress themes and custom plugins for 15+ client websites
+- Integrated third-party APIs: Maps, payment processors, email marketing services
+- Created design systems using Figma and translating to React components
+
+Education:
+B.S. Computer Science, University of California, Los Angeles (UCLA) (2017)
+
+Certifications:
+- Google Mobile Web Specialist
+- React Nanodegree, Udacity
+- Accessibility for Frontend Developers, freeCodeCamp

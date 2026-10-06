@@ -1,0 +1,26 @@
+Job ID: job_09_ai_engineer
+Title: AI Engineer (LLM Applications)
+Company: Lumen Assist
+
+Lumen Assist is looking for an AI Engineer to design, build, and operate LLM-powered product features such as document question answering and workflow assistants.
+
+Requirements:
+- 2+ years of experience building production software in Python
+- Hands-on experience building applications on large language models (LLMs) via provider APIs or open-weight models
+- Experience designing retrieval-augmented generation (RAG) pipelines: chunking, embeddings, vector search, and reranking
+- Building and deploying backend services with FastAPI
+- Containerizing services with Docker and working with Git
+- Ability to design evaluation sets and measure LLM output quality, latency, and cost
+
+Responsibilities:
+- Build and iterate on LLM features from prototype to production
+- Own retrieval quality, prompt design, and guardrails for hallucination and safety
+- Develop offline and online evaluation pipelines for model outputs
+- Monitor production usage, cost, and latency, and optimize where needed
+- Work with product managers to turn user problems into AI features
+
+Nice to have:
+- Experience fine-tuning models with PyTorch or Hugging Face
+- Background in NLP or information retrieval
+- Experience with LangChain, LlamaIndex, or agent frameworks
+- Kubernetes and AWS deployment experience

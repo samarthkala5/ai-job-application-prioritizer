@@ -1,0 +1,26 @@
+Job ID: job_02_ml
+Title: Machine Learning Engineer
+Company: DeepTech AI
+
+DeepTech AI is seeking a Machine Learning Engineer to productionize cutting-edge research and build scalable ML systems.
+
+Requirements:
+- 3+ years of industry experience in ML engineering or applied data science
+- Expert-level Python with deep expertise in PyTorch or TensorFlow
+- Strong background in NLP (transformers, BERT, GPT, T5) or Computer Vision (CNNs, YOLO, Vision Transformers)
+- Experience with MLOps: MLflow, Docker, Kubernetes, model serving (Seldon, TFServing, Vertex AI)
+- Data engineering: Pandas, PySpark, Airflow, feature stores
+- Experience deploying models to production with monitoring, A/B testing, and rollback capabilities
+- Understanding of model optimization: quantization, pruning, distillation, ONNX
+
+Responsibilities:
+- Build end-to-end ML pipelines from data ingestion to model deployment
+- Collaborate with research teams to translate papers into production systems
+- Design and implement model evaluation, monitoring, and drift detection
+- Optimize inference latency and throughput for production workloads
+- Contribute to internal ML platform and tooling
+
+Nice to have:
+- Publications in top ML conferences (NeurIPS, ICML, ICLR, CVPR)
+- Experience with LLM fine-tuning, RAG, or agent frameworks
+- Cloud ML certifications (AWS ML Specialty, GCP ML Engineer)

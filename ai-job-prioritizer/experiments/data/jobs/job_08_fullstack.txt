@@ -1,0 +1,27 @@
+Job ID: job_08_fullstack
+Title: Full-Stack Engineer
+Company: BrightPath Learning
+
+BrightPath Learning is hiring a Full-Stack Engineer to build features end to end across our online learning platform, from database schema to user interface.
+
+Requirements:
+- 3+ years of professional experience shipping full-stack web applications
+- Strong React and TypeScript skills for building production user interfaces
+- Backend development with Node.js (Express or similar) and REST API design
+- Solid relational database experience with PostgreSQL, including schema design and query tuning
+- Version control with Git and a pull-request based workflow
+- Comfortable owning a feature from design discussion through deployment and monitoring
+
+Responsibilities:
+- Design and build new learner-facing and instructor-facing features across the stack
+- Write clean APIs consumed by our web and mobile clients
+- Model data and write migrations for new product areas
+- Improve page performance and API latency
+- Participate in code reviews, on-call rotation, and technical planning
+
+Nice to have:
+- Next.js and server-side rendering
+- GraphQL API experience
+- Docker and AWS deployment experience
+- Redis caching and background job queues
+- Experience with CI/CD pipelines and automated testing

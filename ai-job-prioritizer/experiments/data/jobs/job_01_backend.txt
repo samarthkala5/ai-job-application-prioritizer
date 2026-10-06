@@ -1,0 +1,26 @@
+Job ID: job_01_backend
+Title: Backend Software Engineer
+Company: CloudScale Inc.
+
+We are looking for a Backend Software Engineer to join our Platform team and build the infrastructure that powers our core product.
+
+Requirements:
+- 3+ years of professional experience in backend development using Python or Go
+- Strong knowledge of RESTful API design, HTTP, and gRPC protocols
+- Experience with PostgreSQL, Redis, and message brokers such as RabbitMQ or Apache Kafka
+- Familiarity with Docker, Kubernetes, and cloud platforms (AWS preferred)
+- Experience with microservices architecture, event-driven systems, and distributed systems
+- Strong understanding of system design, performance optimization, and observability
+
+Responsibilities:
+- Design and implement backend services for high-traffic production systems
+- Collaborate with frontend, mobile, and data teams to define and deliver APIs
+- Optimize database queries, caching strategies, and service latency
+- Build and maintain CI/CD pipelines and internal developer tooling
+- Mentor junior engineers and contribute to engineering culture
+
+Nice to have:
+- AWS Certified Solutions Architect or similar
+- Experience with Terraform or IaC tools
+- OpenTelemetry and distributed tracing experience
+- Kubernetes certification

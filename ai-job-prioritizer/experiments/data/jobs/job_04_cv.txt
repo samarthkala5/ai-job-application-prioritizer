@@ -1,0 +1,26 @@
+Job ID: job_04_cv
+Title: Computer Vision Engineer
+Company: VisionAI Technologies
+
+VisionAI Technologies is seeking a Computer Vision Engineer to develop next-generation vision systems for autonomous systems and industrial applications.
+
+Requirements:
+- 3+ years of experience in computer vision research or engineering
+- Expert knowledge of CNN architectures, object detection (YOLO, Faster R-CNN, SSD), and segmentation
+- Strong hands-on experience with PyTorch or TensorFlow
+- Proficiency with OpenCV, image processing, and computer vision algorithms
+- Experience deploying vision models on edge devices (NVIDIA Jetson, mobile, embedded)
+- Understanding of 3D vision: SLAM, depth estimation, point clouds (PCL, Open3D)
+- Strong C++ and Python skills
+
+Responsibilities:
+- Develop and optimize computer vision algorithms for real-world applications
+- Train, fine-tune, and deploy vision models for production environments
+- Optimize models for performance, memory, and latency constraints
+- Collaborate with robotics and embedded teams for system integration
+- Evaluate model performance on diverse datasets and real-world scenarios
+
+Nice to have:
+- Experience with diffusion models, generative vision, or video analysis
+- Contributions to open-source CV projects (Detectron2, MMDetection)
+- Experience with simulation environments (AirSim, Gazebo)

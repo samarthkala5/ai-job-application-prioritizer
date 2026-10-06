@@ -1,0 +1,55 @@
+{
+  "description": "Manually labelled structured requirements for the Phase 1 validation experiment. required_skills come only from each job's 'Requirements' section. A nested list is an any-of group (e.g. 'Python or Go'): it counts as ONE required skill and is satisfied if the resume has any member. preferred_skills come from 'Nice to have' / responsibilities and do NOT contribute to coverage. unmodelled_required lists required items that are not in data/skill_ontology.json; they are recorded for transparency but not scored.",
+  "jobs": {
+    "job_01_backend": {
+      "required_skills": [["Python", "Go"], "REST APIs", "gRPC", "PostgreSQL", "Redis", ["RabbitMQ", "Apache Kafka"], "Docker", "Kubernetes", ["AWS", "GCP", "Azure"], "Microservices", "Distributed Systems", "System Design"],
+      "preferred_skills": ["AWS", "Terraform", "CI/CD"],
+      "unmodelled_required": ["HTTP", "event-driven systems", "observability", "performance optimization"]
+    },
+    "job_02_ml": {
+      "required_skills": ["Machine Learning", "Python", ["PyTorch", "TensorFlow"], ["Natural Language Processing", "Computer Vision"], "MLflow", "Docker", "Kubernetes", "Pandas", "Apache Spark", "Apache Airflow", "A/B Testing"],
+      "preferred_skills": ["LLMs", "RAG", "AWS", "GCP"],
+      "unmodelled_required": ["model serving (Seldon, TFServing, Vertex AI)", "feature stores", "quantization / pruning / distillation", "ONNX"]
+    },
+    "job_03_data": {
+      "required_skills": ["SQL", "Python", "Pandas", "NumPy", ["Tableau", "Power BI", "Looker"], "Data Visualization"],
+      "preferred_skills": ["Snowflake", "BigQuery", "A/B Testing", "Statistics", "ETL"],
+      "unmodelled_required": ["business intelligence", "data cleaning and validation", "storytelling"]
+    },
+    "job_04_cv": {
+      "required_skills": ["Computer Vision", "CNN", ["PyTorch", "TensorFlow"], "OpenCV", "C++", "Python"],
+      "preferred_skills": [],
+      "unmodelled_required": ["object detection (Faster R-CNN, SSD)", "segmentation", "edge deployment (NVIDIA Jetson)", "3D vision (SLAM, depth, point clouds)"]
+    },
+    "job_05_frontend": {
+      "required_skills": ["React", "TypeScript", "JavaScript", ["Redux"], ["Webpack", "Tailwind CSS"], "HTML", "CSS", ["Jest", "Cypress", "Playwright"], "Next.js"],
+      "preferred_skills": ["React Native", "Figma"],
+      "unmodelled_required": ["responsive design", "accessibility (WCAG)", "Zustand / Context API", "Vite / Storybook / CSS-in-JS"]
+    },
+    "job_06_embedded": {
+      "required_skills": ["Firmware Development", "C", "C++", "Microcontrollers", "RTOS", "ARM", "Linux"],
+      "preferred_skills": ["PCB Design", "CI/CD", "Unit Testing"],
+      "unmodelled_required": ["SPI / I2C / UART / CAN / BLE", "GCC / GDB / JTAG", "low-power design"]
+    },
+    "job_07_general": {
+      "required_skills": [["Python", "Java", "JavaScript", "Go", "C#"], "Data Structures and Algorithms", "Git"],
+      "preferred_skills": ["AWS", "GCP", "Azure", "SQL", "NoSQL", "Docker", "Agile"],
+      "unmodelled_required": ["software design principles", "basic testing", "communication / teamwork"]
+    },
+    "job_08_fullstack": {
+      "required_skills": ["React", "TypeScript", "Node.js", "REST APIs", "PostgreSQL", "Git"],
+      "preferred_skills": ["Next.js", "GraphQL", "Docker", "AWS", "Redis", "CI/CD"],
+      "unmodelled_required": ["Express or similar", "schema design and query tuning"]
+    },
+    "job_09_ai_engineer": {
+      "required_skills": ["Python", "LLMs", "RAG", "FastAPI", "Docker", "Git"],
+      "preferred_skills": ["PyTorch", "Natural Language Processing", "Kubernetes", "AWS"],
+      "unmodelled_required": ["embeddings / vector search / reranking", "LLM evaluation"]
+    },
+    "job_10_edge_ai": {
+      "required_skills": ["C", "C++", "Embedded Systems", "Linux", "ARM", "Python", "Computer Vision"],
+      "preferred_skills": ["TensorFlow", "OpenCV", "PyTorch", "RTOS", "Docker", "CI/CD"],
+      "unmodelled_required": ["profiling memory / CPU / power on target"]
+    }
+  }
+}

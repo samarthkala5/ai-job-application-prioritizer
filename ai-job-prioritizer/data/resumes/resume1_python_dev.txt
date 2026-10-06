@@ -1,0 +1,1 @@
+Python Developer with 4 years experience building web applications. Skilled in Django, Flask, FastAPI, PostgreSQL, Redis, Docker, AWS (EC2, S3, Lambda), Git, pytest. Built REST APIs handling 10k+ requests/day. Implemented CI/CD pipelines. Optimized database queries reducing latency by 40%.

@@ -1,0 +1,1 @@
+Machine Learning Engineer - Expert in PyTorch, TensorFlow, scikit-learn. Building neural networks for NLP and computer vision tasks.

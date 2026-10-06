@@ -1,0 +1,28 @@
+Job ID: job_03_data
+Title: Data Analyst
+Company: Analytics Corp
+
+Analytics Corp is hiring a Data Analyst to transform data into actionable insights for business stakeholders.
+
+Requirements:
+- 2+ years of experience in data analysis or business intelligence
+- Expert-level SQL for complex querying and data manipulation
+- Proficiency in Python for data analysis (Pandas, NumPy)
+- Experience with BI tools: Tableau, Power BI, or Looker
+- Strong data visualization skills and storytelling ability
+- Experience working with cross-functional teams (marketing, finance, operations)
+- Ability to clean, validate, and prepare data from multiple sources
+
+Responsibilities:
+- Build and maintain interactive dashboards and reports for executive leadership
+- Perform ad-hoc analysis to answer business questions and identify trends
+- Develop and maintain ETL pipelines for data ingestion and transformation
+- Define and track KPIs, metrics, and business performance indicators
+- Present findings and recommendations to non-technical stakeholders
+- Collaborate with data engineers on data modeling and warehouse design
+
+Nice to have:
+- Experience with data warehousing (Snowflake, BigQuery, Redshift)
+- A/B testing and experimental design knowledge
+- Basic statistical knowledge (hypothesis testing, regression)
+- Google Data Studio or Metabase experience

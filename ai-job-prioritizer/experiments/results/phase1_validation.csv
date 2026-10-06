@@ -1,0 +1,51 @@
+resume_id,job_id,job_title,semantic_similarity,skill_coverage,matched_skills,missing_skills,ground_truth_label
+resume_A_backend,job_01_backend,Backend Software Engineer,0.8742,1.0000,Python; REST APIs; gRPC; PostgreSQL; Redis; RabbitMQ; Docker; Kubernetes; AWS; Microservices; Distributed Systems; System Design,,3
+resume_A_backend,job_02_ml,Machine Learning Engineer,0.5743,0.2727,Python; Docker; Kubernetes,Machine Learning; PyTorch or TensorFlow; Natural Language Processing or Computer Vision; MLflow; Pandas; Apache Spark; Apache Airflow; A/B Testing,1
+resume_A_backend,job_03_data,Data Analyst,0.5362,0.3333,SQL; Python,Pandas; NumPy; Tableau or Power BI or Looker; Data Visualization,1
+resume_A_backend,job_04_cv,Computer Vision Engineer,0.4240,0.1667,Python,Computer Vision; CNN; PyTorch or TensorFlow; OpenCV; C++,0
+resume_A_backend,job_05_frontend,Frontend Engineer,0.5275,0.0000,,React; TypeScript; JavaScript; Redux; Webpack or Tailwind CSS; HTML; CSS; Jest or Cypress or Playwright; Next.js,0
+resume_A_backend,job_06_embedded,Embedded Systems Engineer,0.4528,0.0000,,Firmware Development; C; C++; Microcontrollers; RTOS; ARM; Linux,0
+resume_A_backend,job_07_general,Software Engineer (General),0.6100,0.6667,Python; Git,Data Structures and Algorithms,3
+resume_A_backend,job_08_fullstack,Full-Stack Engineer,0.6873,0.5000,REST APIs; PostgreSQL; Git,React; TypeScript; Node.js,2
+resume_A_backend,job_09_ai_engineer,AI Engineer (LLM Applications),0.5709,0.6667,Python; FastAPI; Docker; Git,LLMs; RAG,1
+resume_A_backend,job_10_edge_ai,Embedded Software Engineer - Edge AI,0.4852,0.1429,Python,C; C++; Embedded Systems; Linux; ARM; Computer Vision,0
+resume_B_ml,job_01_backend,Backend Software Engineer,0.4869,0.5000,Python; REST APIs; PostgreSQL; Docker; Kubernetes; AWS,gRPC; Redis; RabbitMQ or Apache Kafka; Microservices; Distributed Systems; System Design,1
+resume_B_ml,job_02_ml,Machine Learning Engineer,0.8340,1.0000,Machine Learning; Python; PyTorch; Natural Language Processing; MLflow; Docker; Kubernetes; Pandas; Apache Spark; Apache Airflow; A/B Testing,,3
+resume_B_ml,job_03_data,Data Analyst,0.4852,0.6667,SQL; Python; Pandas; NumPy,Tableau or Power BI or Looker; Data Visualization,2
+resume_B_ml,job_04_cv,Computer Vision Engineer,0.6668,0.8333,Computer Vision; CNN; PyTorch; OpenCV; Python,C++,2
+resume_B_ml,job_05_frontend,Frontend Engineer,0.4129,0.0000,,React; TypeScript; JavaScript; Redux; Webpack or Tailwind CSS; HTML; CSS; Jest or Cypress or Playwright; Next.js,0
+resume_B_ml,job_06_embedded,Embedded Systems Engineer,0.4448,0.0000,,Firmware Development; C; C++; Microcontrollers; RTOS; ARM; Linux,0
+resume_B_ml,job_07_general,Software Engineer (General),0.4528,0.6667,Python; Git,Data Structures and Algorithms,2
+resume_B_ml,job_08_fullstack,Full-Stack Engineer,0.5248,0.5000,REST APIs; PostgreSQL; Git,React; TypeScript; Node.js,1
+resume_B_ml,job_09_ai_engineer,AI Engineer (LLM Applications),0.6441,0.8333,Python; RAG; FastAPI; Docker; Git,LLMs,3
+resume_B_ml,job_10_edge_ai,Embedded Software Engineer - Edge AI,0.6517,0.2857,Python; Computer Vision,C; C++; Embedded Systems; Linux; ARM,1
+resume_C_frontend,job_01_backend,Backend Software Engineer,0.4167,0.0833,REST APIs,Python or Go; gRPC; PostgreSQL; Redis; RabbitMQ or Apache Kafka; Docker; Kubernetes; AWS or GCP or Azure; Microservices; Distributed Systems; System Design,1
+resume_C_frontend,job_02_ml,Machine Learning Engineer,0.3105,0.0000,,Machine Learning; Python; PyTorch or TensorFlow; Natural Language Processing or Computer Vision; MLflow; Docker; Kubernetes; Pandas; Apache Spark; Apache Airflow; A/B Testing,0
+resume_C_frontend,job_03_data,Data Analyst,0.3399,0.0000,,SQL; Python; Pandas; NumPy; Tableau or Power BI or Looker; Data Visualization,0
+resume_C_frontend,job_04_cv,Computer Vision Engineer,0.2666,0.0000,,Computer Vision; CNN; PyTorch or TensorFlow; OpenCV; C++; Python,0
+resume_C_frontend,job_05_frontend,Frontend Engineer,0.7898,1.0000,React; TypeScript; JavaScript; Redux; Webpack; HTML; CSS; Jest; Next.js,,3
+resume_C_frontend,job_06_embedded,Embedded Systems Engineer,0.3601,0.0000,,Firmware Development; C; C++; Microcontrollers; RTOS; ARM; Linux,0
+resume_C_frontend,job_07_general,Software Engineer (General),0.3884,0.3333,JavaScript,Data Structures and Algorithms; Git,3
+resume_C_frontend,job_08_fullstack,Full-Stack Engineer,0.6346,0.6667,React; TypeScript; Node.js; REST APIs,PostgreSQL; Git,3
+resume_C_frontend,job_09_ai_engineer,AI Engineer (LLM Applications),0.3708,0.0000,,Python; LLMs; RAG; FastAPI; Docker; Git,0
+resume_C_frontend,job_10_edge_ai,Embedded Software Engineer - Edge AI,0.3702,0.0000,,C; C++; Embedded Systems; Linux; ARM; Python; Computer Vision,0
+resume_D_embedded,job_01_backend,Backend Software Engineer,0.3342,0.0833,Python,REST APIs; gRPC; PostgreSQL; Redis; RabbitMQ or Apache Kafka; Docker; Kubernetes; AWS or GCP or Azure; Microservices; Distributed Systems; System Design,0
+resume_D_embedded,job_02_ml,Machine Learning Engineer,0.3392,0.0909,Python,Machine Learning; PyTorch or TensorFlow; Natural Language Processing or Computer Vision; MLflow; Docker; Kubernetes; Pandas; Apache Spark; Apache Airflow; A/B Testing,0
+resume_D_embedded,job_03_data,Data Analyst,0.2354,0.1667,Python,SQL; Pandas; NumPy; Tableau or Power BI or Looker; Data Visualization,0
+resume_D_embedded,job_04_cv,Computer Vision Engineer,0.3516,0.3333,C++; Python,Computer Vision; CNN; PyTorch or TensorFlow; OpenCV,1
+resume_D_embedded,job_05_frontend,Frontend Engineer,0.2717,0.0000,,React; TypeScript; JavaScript; Redux; Webpack or Tailwind CSS; HTML; CSS; Jest or Cypress or Playwright; Next.js,0
+resume_D_embedded,job_06_embedded,Embedded Systems Engineer,0.7576,1.0000,Firmware Development; C; C++; Microcontrollers; RTOS; ARM; Linux,,3
+resume_D_embedded,job_07_general,Software Engineer (General),0.3606,0.3333,Python,Data Structures and Algorithms; Git,2
+resume_D_embedded,job_08_fullstack,Full-Stack Engineer,0.2775,0.0000,,React; TypeScript; Node.js; REST APIs; PostgreSQL; Git,0
+resume_D_embedded,job_09_ai_engineer,AI Engineer (LLM Applications),0.3533,0.1667,Python,LLMs; RAG; FastAPI; Docker; Git,0
+resume_D_embedded,job_10_edge_ai,Embedded Software Engineer - Edge AI,0.5607,0.8571,C; C++; Embedded Systems; Linux; ARM; Python,Computer Vision,2
+resume_E_general,job_01_backend,Backend Software Engineer,0.5644,0.1667,Python; AWS,REST APIs; gRPC; PostgreSQL; Redis; RabbitMQ or Apache Kafka; Docker; Kubernetes; Microservices; Distributed Systems; System Design,1
+resume_E_general,job_02_ml,Machine Learning Engineer,0.5260,0.1818,Python; Pandas,Machine Learning; PyTorch or TensorFlow; Natural Language Processing or Computer Vision; MLflow; Docker; Kubernetes; Apache Spark; Apache Airflow; A/B Testing,0
+resume_E_general,job_03_data,Data Analyst,0.5183,0.5000,SQL; Python; Pandas,NumPy; Tableau or Power BI or Looker; Data Visualization,2
+resume_E_general,job_04_cv,Computer Vision Engineer,0.4205,0.1667,Python,Computer Vision; CNN; PyTorch or TensorFlow; OpenCV; C++,0
+resume_E_general,job_05_frontend,Frontend Engineer,0.5720,0.4444,React; JavaScript; HTML; CSS,TypeScript; Redux; Webpack or Tailwind CSS; Jest or Cypress or Playwright; Next.js,1
+resume_E_general,job_06_embedded,Embedded Systems Engineer,0.4022,0.0000,,Firmware Development; C; C++; Microcontrollers; RTOS; ARM; Linux,0
+resume_E_general,job_07_general,Software Engineer (General),0.5736,0.6667,Python; Git,Data Structures and Algorithms,2
+resume_E_general,job_08_fullstack,Full-Stack Engineer,0.6488,0.3333,React; Git,TypeScript; Node.js; REST APIs; PostgreSQL,1
+resume_E_general,job_09_ai_engineer,AI Engineer (LLM Applications),0.5280,0.3333,Python; Git,LLMs; RAG; FastAPI; Docker,0
+resume_E_general,job_10_edge_ai,Embedded Software Engineer - Edge AI,0.4451,0.1429,Python,C; C++; Embedded Systems; Linux; ARM; Computer Vision,0

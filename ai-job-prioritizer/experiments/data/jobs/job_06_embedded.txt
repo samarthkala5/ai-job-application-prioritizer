@@ -1,0 +1,28 @@
+Job ID: job_06_embedded
+Title: Embedded Systems Engineer
+Company: IoTech Labs
+
+IoTech Labs is seeking an Embedded Systems Engineer to build firmware for our next-generation IoT devices and sensor systems.
+
+Requirements:
+- 3+ years of experience in embedded firmware development
+- Expert-level C and C++ programming for microcontrollers
+- Strong experience with RTOS (FreeRTOS, Zephyr) and real-time systems
+- Proficiency with ARM Cortex-M microcontrollers (STM32, Nordic nRF) and embedded Linux
+- Knowledge of communication protocols: SPI, I2C, UART, CAN, BLE, LoRaWAN
+- Experience with embedded development tools: GCC, GDB, JTAG, oscilloscopes
+- Understanding of low-power design and power optimization techniques
+
+Responsibilities:
+- Design and implement embedded firmware for battery-powered IoT devices
+- Read and integrate sensor datasheets and develop drivers for peripherals
+- Optimize memory usage, CPU utilization, and power consumption
+- Implement secure boot, OTA updates, and communication protocols
+- Debug complex hardware-software integration issues using lab equipment
+- Write and maintain embedded CI/CD pipelines and unit testing
+
+Nice to have:
+- Experience with wireless protocols (Bluetooth mesh, Zigbee, Thread)
+- Automotive or industrial safety standards (ISO 26262, IEC 61508)
+- Signal processing, sensor fusion, Kalman filters
+- PCB design and electronics

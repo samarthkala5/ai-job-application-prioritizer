@@ -1,0 +1,44 @@
+Alex Chen
+Senior Backend Engineer
+
+Summary:
+Backend engineer with 5 years of experience designing and scaling distributed systems using Python, Go, and cloud infrastructure. Deep expertise in building RESTful APIs, microservices architectures, and event-driven systems. Strong focus on performance optimization, observability, and system reliability.
+
+Technical Skills:
+- Languages: Python (expert, 5+ years), Go (proficient, 3 years), SQL (expert), Bash
+- Backend Frameworks: Django, FastAPI, Flask, Gin, gRPC
+- Databases: PostgreSQL (advanced), Redis, MongoDB, Cassandra, Elasticsearch
+- Message Queues: RabbitMQ, Apache Kafka, NATS
+- Cloud & Infrastructure: AWS (EC2, ECS, Lambda, RDS, SQS, CloudWatch), GCP, Docker, Kubernetes, Terraform
+- Monitoring: Prometheus, Grafana, Datadog, OpenTelemetry
+- CI/CD: GitHub Actions, GitLab CI, ArgoCD
+- Testing: pytest, unit/integration/load testing, contract testing
+
+Professional Experience:
+
+Senior Backend Engineer | CloudScale Inc. | 2022–Present
+- Architected and led migration from monolithic Django application to microservices using Go and gRPC, reducing deployment risk and improving team autonomy
+- Designed event-driven order processing pipeline using Kafka, handling 50k+ events/minute with exactly-once semantics
+- Implemented distributed tracing with OpenTelemetry and Jaeger, reducing MTTR by 60%
+- Mentored 3 junior engineers on system design, code review practices, and operational excellence
+- Built internal developer platform reducing service provisioning time from days to minutes
+
+Backend Engineer | FinTech Solutions | 2019–2022
+- Developed high-throughput payment processing APIs using FastAPI and PostgreSQL, processing $10M+ daily transactions
+- Optimized database queries and implemented connection pooling, reducing p99 latency from 800ms to 120ms
+- Introduced circuit breaker patterns and retry logic with exponential backoff for external service integrations
+- Designed and implemented idempotency keys for all mutating endpoints to prevent duplicate processing
+- Collaborated with security team to implement PCI-DSS compliant logging and audit trails
+
+Junior Developer | StartupHub | 2017–2019
+- Built REST APIs for e-commerce platform using Django REST Framework
+- Integrated third-party services: Stripe, SendGrid, Twilio, AWS S3
+- Wrote comprehensive unit and integration tests achieving 90%+ coverage
+
+Education:
+M.S. Computer Science, University of Technology (2017)
+B.S. Computer Engineering, State University (2015)
+
+Certifications:
+- AWS Certified Solutions Architect – Professional
+- CKAD: Certified Kubernetes Application Developer

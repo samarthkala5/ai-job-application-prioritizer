@@ -1,0 +1,1 @@
+Data Analyst with 3 years experience in SQL, Excel, Tableau, Python (Pandas, NumPy). Built 15+ Tableau dashboards for executive reporting. Wrote complex SQL queries for 3M+ row datasets. Automated weekly KPI reports using Python. Experience with Google Analytics, Looker.

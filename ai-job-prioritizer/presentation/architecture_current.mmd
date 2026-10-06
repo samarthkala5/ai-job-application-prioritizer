@@ -1,0 +1,52 @@
+%% Current IMPLEMENTED architecture (Phase 0 + Phase 1)
+%% Solid = implemented and unit-tested. Dotted = offline validation experiment only.
+flowchart LR
+    subgraph INPUT["Input"]
+        R1["Resume<br/>PDF / DOCX / pasted text"]
+        J1["Job descriptions<br/>(text)"]
+    end
+
+    subgraph PARSE["Parsing (Phase 0)"]
+        P1["PDF parser<br/>PyMuPDF"]
+        P2["DOCX parser<br/>python-docx"]
+        T["Plain text"]
+    end
+
+    subgraph P0["Phase 0: Semantic similarity"]
+        E["SBERT all-MiniLM-L6-v2<br/>384-dim embedding<br/>(max 256 tokens: truncation)"]
+        C["Cosine similarity"]
+        RK["Rank jobs by<br/>Semantic Match Score"]
+    end
+
+    subgraph P1S["Phase 1: Skill matching (backend module)"]
+        ONT[("Skill ontology<br/>100 skills / 180 aliases<br/>data/skill_ontology.json")]
+        X["Skill extractor<br/>regex + boundaries<br/>case-sensitive aliases<br/>context exclusions"]
+        M["Skill matcher"]
+        OUT["Matched / missing / additional skills<br/>Required skill coverage"]
+    end
+
+    UI["Streamlit UI<br/>frontend/app.py<br/>(shows Phase 0 ranking only)"]
+
+    subgraph VAL["Offline validation (experiments/)"]
+        GT[("Developer-authored<br/>required skills + reference labels")]
+        H["run_phase1_validation.py<br/>50 resume x job pairs"]
+        RES["CSV / metrics JSON / plots"]
+    end
+
+    R1 --> P1 --> T
+    R1 --> P2 --> T
+    J1 --> T
+    T --> E --> C --> RK --> UI
+    T --> X
+    ONT --> X --> M --> OUT
+
+    C -.-> H
+    OUT -.-> H
+    GT -.-> H --> RES
+
+    classDef impl fill:#e8f5e9,stroke:#2e7d32,color:#1b1b1b;
+    classDef ui fill:#e3f2fd,stroke:#1565c0,color:#1b1b1b;
+    classDef exp fill:#fff8e1,stroke:#b28704,color:#1b1b1b,stroke-dasharray: 4 3;
+    class P1,P2,T,E,C,RK,ONT,X,M,OUT impl;
+    class UI ui;
+    class GT,H,RES exp;

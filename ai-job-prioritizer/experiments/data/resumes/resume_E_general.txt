@@ -1,0 +1,36 @@
+Jake Morrison
+Generalist Software Developer
+
+Summary:
+Software developer with 2.5 years of experience in a broad range of technologies, having worked across web, data, and support roles. Recently completed a coding bootcamp and has been primarily focused on small web projects and some data tooling. Still building deep expertise in any single domain and actively learning.
+
+Technical Skills:
+- Languages: Python (basic-intermediate), JavaScript (basic-intermediate), HTML/CSS (basic), SQL (basic)
+- Web: Flask (basic), React (basic tutorials, limited experience), HTML, some Bootstrap
+- Data Tools: Pandas (for data cleaning in Excel workflows), Jupyter notebooks, matplotlib
+- Databases: MySQL (basic), some MongoDB
+- Platforms: Basic familiarity with AWS (ec2 instance setup), Heroku, Netlify
+- Version Control: Git, GitHub (basic)
+
+Professional Experience:
+
+Software Developer | LocalTech Solutions | 2022–Present
+- Built small Flask web apps for internal team use, including a basic contact form app and simple content management interface
+- Automated some data entry tasks using Python scripts and Pandas, saving approximately 5 hours per week across the team
+- Assisted with minor bug fixes on React components, mostly through copy-pasting and adapting existing patterns
+- Helped maintain and deploy a simple e-commerce site on Heroku, handling basic configuration and monitoring
+
+Data Assistant | Regional Healthcare | 2021–2022
+- Performed basic data cleaning and report generation using Excel, Jupyter notebooks, and Python
+- Created charts in matplotlib to visualize monthly metrics, shared with department leads
+- Supported the data team with basic ETL scripts, primarily copying and running templates provided by senior staff
+- Updated documentation and tracked version history using Git and GitHub
+
+Education:
+B.A. Business Administration, Regional University (2021)
+Coding Bootcamp Graduate, CodePath (completed 2021)
+
+Online Courses:
+- Python for Data Science, Coursera (2022)
+- React Basics, freeCodeCamp (2021)
+- SQL Fundamentals, Khan Academy (2020)

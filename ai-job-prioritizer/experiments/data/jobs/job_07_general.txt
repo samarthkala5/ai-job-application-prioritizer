@@ -1,0 +1,27 @@
+Job ID: job_07_general
+Title: Software Engineer (General)
+Company: TechCorp Industries
+
+TechCorp Industries is seeking a Software Engineer to work on various internal tools and systems.
+
+Requirements:
+- 2+ years of professional software development experience
+- Strong programming fundamentals in at least one language (Python, Java, JavaScript, Go, C#)
+- Understanding of data structures, algorithms, and software design principles
+- Experience with version control (Git) and basic testing
+- Ability to learn new technologies and adapt to different project needs
+- Good communication skills and ability to work in a team environment
+
+Responsibilities:
+- Develop and maintain internal tools, utilities, and automation scripts
+- Collaborate with different teams to understand their software needs
+- Write clean, maintainable code following team coding standards
+- Participate in code reviews and provide constructive feedback
+- Troubleshoot and debug issues across different systems
+- Continuously improve development processes
+
+Nice to have:
+- Experience with cloud platforms (AWS, GCP, Azure)
+- Database experience (SQL, NoSQL)
+- Docker and basic containerization knowledge
+- Agile/Scrum methodology experience

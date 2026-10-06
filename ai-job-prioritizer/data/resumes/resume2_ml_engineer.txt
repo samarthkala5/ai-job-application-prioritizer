@@ -1,0 +1,1 @@
+Machine Learning Engineer with 3 years experience in PyTorch, TensorFlow, scikit-learn, transformers. MSc in Data Science. Built BERT-based text classification achieving 95% accuracy. Deployed models on AWS SageMaker with auto-scaling. Published 2 papers at NeurIPS and ICML. Strong in NLP and computer vision.

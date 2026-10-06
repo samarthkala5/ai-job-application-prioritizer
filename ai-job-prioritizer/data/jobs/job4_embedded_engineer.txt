@@ -1,0 +1,1 @@
+Embedded Systems Engineer - C/C++, microcontrollers (ARM, AVR), RTOS, sensor interfacing, firmware development. PCB design a plus.

@@ -1,0 +1,46 @@
+Mai Le
+Embedded Systems Engineer
+
+Summary:
+Embedded engineer with 4 years of experience developing firmware for microcontroller-based systems, IoT devices, and real-time applications. Deep expertise in C/C++, RTOS, hardware integration, and low-power optimization. Published work on sensor fusion for wearable devices.
+
+Technical Skills:
+- Languages: C (expert), C++ (expert), Assembly (x86, ARM) (proficient), Python (intermediate), MQTT
+- Real-Time Operating Systems: FreeRTOS, Zephyr, RT-Thread, embedded Linux
+- Microcontrollers: ARM Cortex-M (STM32, nRF52, LPC), ESP32, AVR (ATmega), RISC-V
+- Communication Protocols: SPI, I2C, UART, CAN, USB, I3C, LoRaWAN, BLE, Zigbee, NFC
+- Sensors & Actuators: Accelerometers, Gyroscopes, IMUs, Temperature/Humidity, Pressure, Heart rate, Motor drivers
+- Embedded Tools: GCC, Clang, IAR, Keil, J-Link, ST-Link, OpenOCD, GDB, PyOCD
+- Build Systems: CMake, Make, Conan, PlatformIO, Yocto Project
+- Firmware OTA: mbed TLS, ATECC608, custom update frameworks
+- Testing: Unit testing, Hardware-in-the-loop (HIL), JTAG debugging, Oscilloscope analysis
+- Power Management: Low-power modes, sleep modes, clock gating, power gating, energy harvesting
+
+Professional Experience:
+
+Embedded Systems Engineer | IoTech Labs | 2021–Present
+- Designed and developed firmware for IoT environmental sensor node using STM32L4 and FreeRTOS, achieving 5-year battery life from 2500mAh LiPo
+- Integrated BLE 5.2 stack for over-the-air firmware updates, reducing update time from 2 hours to 5 minutes
+- Implemented sensor fusion algorithm combining accelerometer, gyroscope, and magnetometer data for activity recognition, running at 100Hz on Cortex-M4
+- Designed low-power sleep-wake cycles using hardware-accelerated power gating, reducing power consumption by 78%
+- Created CI/CD pipeline for firmware over-the-air (FOTA) updates using mbed TLS for secure boot and OTA integrity
+
+Firmware Engineer | Wearable Devices Inc. | 2019–2021
+- Developed heart rate monitor firmware using PPG sensor and Cortex-M4, achieving 99% signal quality with artifact rejection
+- Implemented custom DSP filter for noise reduction and peak detection, reducing false positive rate by 85%
+- Designed power budget for 2-week battery life from 300mAh coin cell, optimizing all system components
+- Integrated FATFS file system and external QSPI flash for parameter persistence and OTA updates
+- Partnered with hardware team to redesign PCB, reducing component count by 15% while improving EMC compliance
+
+Junior Embedded Engineer | AutoElectronics | 2017–2019
+- Developed firmware for automotive sensor interface using CAN bus and SPI, validated against AUTOSAR compliance
+- Built automated test suite using Python and GDB, reducing test cycle from 2 days to 4 hours
+- Implemented watchdog timers and error recovery procedures for safety-critical systems
+
+Education:
+B.S. Electrical Engineering, University of Michigan (2017)
+
+Certifications:
+- ARM Accredited Engineer (AAE)
+- FreeRTOS Professional Certification
+- Certified IoT Security Professional (CISP)

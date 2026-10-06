@@ -1,0 +1,28 @@
+Job ID: job_05_frontend
+Title: Frontend Engineer
+Company: Nova Studios
+
+Nova Studios is seeking a Frontend Engineer to build exceptional user experiences for our web products.
+
+Requirements:
+- 3+ years of experience in frontend development
+- Expert in React with TypeScript, modern JavaScript (ES6+)
+- Strong understanding of responsive design, accessibility (WCAG), and cross-browser compatibility
+- Experience with state management (Redux, Zustand, Context API) and component-driven architecture
+- Proficiency with modern tooling: Vite, Webpack, Storybook, CSS-in-JS, or Tailwind CSS
+- HTML5, CSS3, and modern CSS (Grid, Flexbox, Container Queries)
+- Strong testing mindset: Jest, React Testing Library, Cypress, or Playwright
+- Experience with Next.js for server-rendered React applications
+
+Responsibilities:
+- Build high-quality, performant user interfaces for web applications
+- Collaborate with designers (Figma) to implement pixel-perfect UIs
+- Optimize performance and accessibility for modern browsers and mobile
+- Build and maintain a reusable component library and design system
+- Write unit, integration, and end-to-end tests for frontend components
+- Mentor junior developers on best practices
+
+Nice to have:
+- React Native for mobile or React Native Web
+- Performance optimization, Core Web Vitals, Lighthouse
+- Experience with Web Performance APIs and progressive enhancement

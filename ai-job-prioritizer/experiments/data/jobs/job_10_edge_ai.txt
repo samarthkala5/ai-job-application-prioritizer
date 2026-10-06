@@ -1,0 +1,25 @@
+Job ID: job_10_edge_ai
+Title: Embedded Software Engineer - Edge AI
+Company: SenseEdge Robotics
+
+SenseEdge Robotics builds smart cameras for warehouse robots. We are hiring an Embedded Software Engineer to bring perception models onto resource-constrained hardware.
+
+Requirements:
+- 3+ years of embedded software development in C and C++
+- Experience with embedded systems running embedded Linux on ARM processors
+- Python for tooling, test automation, and model conversion scripts
+- Working knowledge of computer vision pipelines (camera capture, preprocessing, inference post-processing)
+- Comfortable profiling memory, CPU, and power on target hardware
+
+Responsibilities:
+- Port and optimize vision inference pipelines to ARM-based edge devices
+- Integrate camera drivers and sensor interfaces with the perception stack
+- Write and maintain board support code and system services
+- Collaborate with the ML team to meet latency and accuracy targets on device
+- Build hardware-in-the-loop tests for releases
+
+Nice to have:
+- Experience with TensorFlow Lite, ONNX Runtime, or TensorRT
+- OpenCV and PyTorch experience
+- RTOS experience for co-processor firmware
+- Docker-based cross-compilation and CI/CD pipelines
