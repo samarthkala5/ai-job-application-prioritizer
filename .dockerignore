@@ -1,0 +1,10 @@
+.git
+__pycache__
+*.pyc
+venv
+mlruns
+job-matching-research
+presentation
+notebooks
+experiments
+tests
